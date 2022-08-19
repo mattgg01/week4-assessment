@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "reading": "You will find $100 tomorrow",
+      "price": 9
+    },
+    {
+      "id": 2,
+      "address": "Your road to glory will be rocky, but fulfilling",
+      "rating": 7
+    
+    },
+    {
+      "id": 3,
+      "address": "Don't worry about money, the best things in life are free",
+      "rating": 5
+
+    }
+  ]
